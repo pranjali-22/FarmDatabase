@@ -1,0 +1,5 @@
+// Two queries to be executed
+1. The user can see the crops with given status - selection
+2. The user can see the status of crops in given month and year - selection
+3. The user can see all crop details(quantity) with given status - join with a where clause
+

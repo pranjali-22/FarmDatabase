@@ -1,0 +1,5 @@
+1. total_quantity - sum of total quantity - GROUP BY crop_name
+2. total_quantity_year - sum of total quantity - GROUP BY start_year
+3. total_quantity_name_year - sum of total quantity - GROUP BY crop_name,start_year
+4. having_total_quantity_name - takes a specific quantity - HAVING quantity = ?
+5. avg_year_total_quantity - avg quantity per year - Nested aggregation
