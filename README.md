@@ -3,6 +3,9 @@
 The project is based on the database management of an agricultural firm. The model can be
 used by agricultural companies for to streamline farm operations, crop production and crop
 distribution.
+
+### ER Diagram
+![alt text](image.png)
 ### Entities
 1. Farms - Farms are owned in different locations by the agricultural firm.
 2. Farmers - Farmers are assigned to work at specific farms by the agricultural
@@ -17,9 +20,7 @@ crop and the soil type of each farm. This ensures that the crops are cultivated 
 proper environment.
 6. Farming Equipment – Farms need different equipment for farming purposes.
 7. Distribution Channels - The crops produced are sold through different
-distribution channels such as offline and online
-### ER Diagram
-![alt text](image.png)
+distribution channels such as offline and online.
 
 #### Application
 The application models the farming management aspects of the agricultural firm. In real life, this model can be used by a firm which owns multiple farms, assigns multiple farmers work on these farms, produces different varieties of crops and sells the produced crops through different channels. Such an agricultural firm will
